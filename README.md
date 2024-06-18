@@ -41,19 +41,22 @@
    ![jira](https://img.shields.io/badge/jira-212121?style=for-the-badge&logo=jira)
    ![boostrap](https://img.shields.io/badge/bootstrap-212121?style=for-the-badge&logo=bootstrap)
    ![VS Code](https://img.shields.io/badge/Visual%20Code-212121?style=for-the-badge&logo=visualstudio)
+   ![VS Code](https://img.shields.io/badge/wordpress-212121?style=for-the-badge&logo=wordpress)
  
    
 
-<br>
+
 
 
 
 </p>
 
 <br>
+<br>
+<br>
 
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <br>
@@ -83,9 +86,6 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>
 <br>
 
